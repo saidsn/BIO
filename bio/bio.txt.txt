@@ -1,0 +1,4 @@
+name surname: Said Nuraliyev
+Age:33
+Education: Code Academy
+Region: Bilesuvar
